@@ -2,7 +2,9 @@
 ##  I'm Deepak Padukone Manjunath (He/Him)
 
 
-## 🔭 MBA @UniversityOfNottingham 
+## 🔭 MBA - UniversityOfNottingham 
+## 🔭 Computer Engineer - Visvesvaraya Technological University(VTU) 
+
 ### 🌱 Working on Frontend and Full-stack Develpement
 
 
