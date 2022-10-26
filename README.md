@@ -2,8 +2,8 @@
 ##  I'm Deepak Padukone Manjunath (He/Him)
 
 
-## 🔭 I’m currently doing my MBA @UniversityOfNottingham 
-### 🌱 Worked on Visualization and Automation using TypeScript/JavaScript
+## 🔭 MBA @UniversityOfNottingham 
+### 🌱 Working on Frontend and Full-stack Develpement
 
 
 <div align="center">
