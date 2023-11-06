@@ -5,7 +5,7 @@
 ## 🎓 MBA - University of Nottingham Business School
 ## 🖥️  Computer Engineer - Visvesvaraya Technological University(VTU) 
 
-### 🕵🏻‍♂️ Working on Frontend and Full-stack Develpement
+### 🕵🏻‍♂️ Working on Frontend and Full-stack Development
 
 
 <div align="center">
